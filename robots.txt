@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://armin-historik.github.io/stadtbrand-todtnau/sitemap.xml
