@@ -1,9 +1,22 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://armin-historik.github.io/stadtbrand-todtnau/</loc></url>
-<url><loc>https://armin-historik.github.io/stadtbrand-todtnau/quellen.html</loc></url>
-<url><loc>https://armin-historik.github.io/stadtbrand-todtnau/aussagen.html</loc></url>
-<url><loc>https://armin-historik.github.io/stadtbrand-todtnau/wiederaufbau.html</loc></url>
-<url><loc>https://armin-historik.github.io/stadtbrand-todtnau/dokumente.html</loc></url>
-<url><loc>https://armin-historik.github.io/stadtbrand-todtnau/originalbericht.html</loc></url>
+  <url>
+    <loc>https://stadtbrand-todtnau.de/</loc>
+  </url>
+  <url>
+    <loc>https://stadtbrand-todtnau.de/quellen.html</loc>
+  </url>
+  <url>
+    <loc>https://stadtbrand-todtnau.de/aussagen.html</loc>
+  </url>
+  <url>
+    <loc>https://stadtbrand-todtnau.de/wiederaufbau.html</loc>
+  </url>
+  <url>
+    <loc>https://stadtbrand-todtnau.de/dokumente.html</loc>
+  </url>
+  <url>
+    <loc>https://stadtbrand-todtnau.de/originalbericht.html</loc>
+  </url>
 </urlset>
